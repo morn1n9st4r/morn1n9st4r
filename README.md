@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center"> Hi there, my name is Oleksii Lepilo 👋 </h1>
 
-<!--
-**morn1n9st4r/morn1n9st4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Data Engineer 💻 </h3>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+
+
+📫 How to reach me: \
+E-mail: [a.lepilo.soft@gmail.com](mailto:a.lepilo.soft@gmail.com) \
+LinkedIn: [Oleksii Lepilo](https://www.linkedin.com/in/alepilo/) \
+Telegram: +380(50)-174-65-29 (Ukraine)
+
+</div>
