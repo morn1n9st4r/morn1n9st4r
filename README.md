@@ -21,9 +21,12 @@ Telegram: +380(50)-174-65-29 (Ukraine)
 
 <div align="center">
 
-Programming and markup languages: Python, Scala \
-Frameworks and libraries: Spring Framework, ReactJS, Hibernate, Tailwind \
-Databases and other tools: MySQL, PostgreSQL, Docker, Amazon Web Services, Stripe, Git \
-IDEs: IntelliJ IDEA, Visual Studio Code
+python scala
+
+superset, tableau
+
+postgresql, docker, aws, git
+
+great expectations, airflow
 
 </div>
