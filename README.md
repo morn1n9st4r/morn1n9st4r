@@ -7,6 +7,9 @@
 
 <div align="center">
 
+🗒 I’m currently learning Apache Kafka \
+👔 I’m looking for a job as Data Engineer / ETL-developer \
+💬 Ask me about any topic among my techstack or my projects
 
 📫 How to reach me: \
 E-mail: [a.lepilo.soft@gmail.com](mailto:a.lepilo.soft@gmail.com) \
