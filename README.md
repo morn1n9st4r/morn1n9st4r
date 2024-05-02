@@ -17,3 +17,13 @@ LinkedIn: [Oleksii Lepilo](https://www.linkedin.com/in/alepilo/) \
 Telegram: +380(50)-174-65-29 (Ukraine)
 
 </div>
+
+
+<div align="center">
+
+Programming and markup languages: Python, Scala \
+Frameworks and libraries: Spring Framework, ReactJS, Hibernate, Tailwind \
+Databases and other tools: MySQL, PostgreSQL, Docker, Amazon Web Services, Stripe, Git \
+IDEs: IntelliJ IDEA, Visual Studio Code
+
+</div>
