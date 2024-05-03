@@ -18,15 +18,51 @@ Telegram: +380(50)-174-65-29 (Ukraine)
 
 </div>
 
+<hr>
+
+
+<h3 align="center"> My technical stack </h3>
+
+<br>
+
 
 <div align="center">
 
-python scala
+<img src="assets/python.svg" width="55" height="55" alt="python">
 
-superset, tableau
+<img src="assets/scala.svg" width="55" height="55" alt="scala">
 
-postgresql, docker, aws, git
+<img src="assets/sql.svg" width="55" height="55" alt="SQL">
 
-great expectations, airflow
+<img src="assets/superset.svg" width="55" height="55" alt="superset">
+
+<img src="assets/tableau.svg" width="55" height="55" alt="tableau">
+
+<img src="assets/postgresql.svg" width="55" height="55" alt="postgresql">
+
+<img src="assets/Great_Expectations.svg" width="55" height="55" alt="Great Expectations">
 
 </div>
+
+<div align="center">
+
+<img src="assets/AWS_RDS.svg" width="55" height="55" alt="AWS RDS">
+
+<img src="assets/AWS_Redshift.svg" width="55" height="55" alt="AWS Redshift">
+
+<img src="assets/AWS_S3.svg" width="55" height="55" alt="AWS S3">
+
+</div>
+
+
+<div align="center">
+
+<img src="assets/Docker.svg" width="55" height="55" alt="Docker">
+
+<img src="assets/Terraform.svg" width="55" height="55" alt="Terraform">
+</div>
+
+<br>
+
+
+<hr>
