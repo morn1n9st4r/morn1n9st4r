@@ -34,32 +34,34 @@ Telegram: +380(50)-174-65-29 (Ukraine)
 
 <img src="assets/sql.svg" width="55" height="55" alt="SQL">
 
+<img src="assets/postgresql.svg" width="55" height="55" alt="postgresql">
+
+<img src="assets/gx.svg" width="55" height="55" alt="Great Expectations">
+
+</div>
+
+<div align="center">
+
+<img src="assets/airflow.svg" width="55" height="55" alt="Airflow">
+
+<img src="assets/rds.svg" width="55" height="55" alt="AWS RDS">
+
+<img src="assets/redshift.svg" width="55" height="55" alt="AWS Redshift">
+
+<img src="assets/s3.svg" width="55" height="55" alt="AWS S3">
+
+</div>
+
+
+<div align="center">
+
 <img src="assets/superset.svg" width="55" height="55" alt="superset">
 
 <img src="assets/tableau.svg" width="55" height="55" alt="tableau">
 
-<img src="assets/postgresql.svg" width="55" height="55" alt="postgresql">
+<img src="assets/docker.svg" width="55" height="55" alt="Docker">
 
-<img src="assets/Great_Expectations.svg" width="55" height="55" alt="Great Expectations">
-
-</div>
-
-<div align="center">
-
-<img src="assets/AWS_RDS.svg" width="55" height="55" alt="AWS RDS">
-
-<img src="assets/AWS_Redshift.svg" width="55" height="55" alt="AWS Redshift">
-
-<img src="assets/AWS_S3.svg" width="55" height="55" alt="AWS S3">
-
-</div>
-
-
-<div align="center">
-
-<img src="assets/Docker.svg" width="55" height="55" alt="Docker">
-
-<img src="assets/Terraform.svg" width="55" height="55" alt="Terraform">
+<img src="assets/terraform.svg" width="55" height="55" alt="Terraform">
 </div>
 
 <br>
