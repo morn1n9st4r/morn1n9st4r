@@ -6,7 +6,7 @@
 
 <div align="center">
 <h3 align="center">🌟 About Me </h3>
-I'm a software engineer with a passion for building scalable and efficient solutions. I have experience in data engineering and cloud computing. When I'm not coding, you can find me exploring new technologies, reading tech blogs, or contributing to open-source projects.
+I'm a software engineer with a passion for building scalable and efficient solutions. I have experience in data engineering and cloud computing <i>(and a little bit of web dev and machine learning, to show that my data engineering job is done correctly and data-users can consume data in the way they need)</i>. When I'm not coding, you can find me exploring new technologies, reading tech blogs, or contributing to open-source projects.
 
 
 <br>
