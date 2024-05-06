@@ -5,6 +5,11 @@
 <br>
 
 <div align="center">
+<h3 align="center">🌟 About Me </h3>
+I'm a software engineer with a passion for building scalable and efficient solutions. I have experience in data engineering and cloud computing. When I'm not coding, you can find me exploring new technologies, reading tech blogs, or contributing to open-source projects.
+
+
+<br>
 
 
 🗒 I’m currently learning Apache Kafka \
