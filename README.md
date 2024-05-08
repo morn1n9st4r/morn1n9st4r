@@ -57,4 +57,4 @@ Telegram: +380(50)-174-65-29 (Ukraine)
 
 <hr>
 
-<h3 align="center"> Check out my recent projects ⬇️</h3>
+<h3 align="center"> Check out my projects ⬇️</h3>
